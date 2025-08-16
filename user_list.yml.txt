@@ -1,0 +1,21 @@
+user:
+
+     - name: myuser1
+       id: 6001
+       job: manager
+
+     - name: myuser2
+       id: 6002
+       job: developer
+
+     - name: myuser3
+       id: 6003
+       job: manager
+
+     - name: myuser4
+       id: 6004
+       job: developer
+
+     - name: myuser5
+       id: 6005
+       job: manager
